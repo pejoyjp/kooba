@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/kooba/static/css/main.971f1d47.css",
-    "main.js": "/kooba/static/js/main.637c5b8e.js",
+    "main.js": "/kooba/static/js/main.c111b568.js",
     "static/media/logo.png": "/kooba/static/media/logo.dac0bed41c3e520b6317.png",
     "static/media/roboto-all-500-normal.woff": "/kooba/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "/kooba/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
     "static/media/roboto-all-400-normal.woff": "/kooba/static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
     "static/media/roboto-all-300-normal.woff": "/kooba/static/media/roboto-all-300-normal.168d6383e73339293ac3.woff",
+    "static/media/kooba.png": "/kooba/static/media/kooba.c98b21c8758eb33233bc.png",
     "static/media/roboto-latin-500-normal.woff2": "/kooba/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
     "static/media/roboto-latin-700-normal.woff2": "/kooba/static/media/roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
     "static/media/roboto-latin-400-normal.woff2": "/kooba/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
@@ -37,10 +38,10 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/kooba/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/kooba/index.html",
     "main.971f1d47.css.map": "/kooba/static/css/main.971f1d47.css.map",
-    "main.637c5b8e.js.map": "/kooba/static/js/main.637c5b8e.js.map"
+    "main.c111b568.js.map": "/kooba/static/js/main.c111b568.js.map"
   },
   "entrypoints": [
     "static/css/main.971f1d47.css",
-    "static/js/main.637c5b8e.js"
+    "static/js/main.c111b568.js"
   ]
 }
